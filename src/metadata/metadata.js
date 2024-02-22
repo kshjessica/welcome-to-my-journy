@@ -7,7 +7,7 @@ module.exports = {
     // Wiki: `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
     //               <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
     //             </a>`,
-    Instagram: `<a href="https://www.instagram.com/___seohyun___.__._/"><i class="fa-brands fa-instagram fact-icon"></i>___Seohyun___.__._</a>`,
+    Instagram: `<a href="https://www.instagram.com/___seohyun___.__._/"><i class="fa-brands fa-instagram fact-icon"></i>___seohyun___.__._</a>`,
     Email:
       '<a href="mailto:kshjessica@ewhain.com"><i class="fa fa-envelope fact-icon"></i>kshjessica@ewhain.com</a>',
   },
