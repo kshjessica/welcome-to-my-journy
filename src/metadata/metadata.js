@@ -5,8 +5,7 @@ module.exports = {
     Residence:
       '<a href="https://maps.app.goo.gl/XmVAwbhGKiUZwazaA"><i class="fa fa-home fact-icon"></i>Seoul, Korea</a>',
     Blog: `<a href="https://velog.io/@kshjessica/series">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>Seohyun's Velog
-    //             </a>`,
+                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>Seohyun's Velog</a>`,
     Instagram: `<a href="https://www.instagram.com/___seohyun___.__._/"><i class="fa-brands fa-instagram fact-icon"></i>___seohyun___.__._</a>`,
     Email:
       '<a href="mailto:kshjessica@ewhain.com"><i class="fa fa-envelope fact-icon"></i>kshjessica@ewhain.com</a>',
