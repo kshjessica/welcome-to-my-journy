@@ -3,7 +3,7 @@ module.exports = {
   title: "Coding for Change: Empowering Communities Through Technology",
   facts: {
     Residence:
-      '<a href="https://maps.app.goo.gl/XmVAwbhGKiUZwazaA"><i class="fa fa-home fact-icon"></i>Seoul, Korea</a>',
+      '<a href="https://maps.app.goo.gl/XmVAwbhGKiUZwazaA"><i class="fa fa-home fact-icon"></i>Seoul, Republic of Korea</a>',
     Blog: `<a href="https://velog.io/@kshjessica/series">
                   <i class="fa-brands fa-wikipedia-w fact-icon"></i>Seohyun's Velog</a>`,
     Instagram: `<a href="https://www.instagram.com/___seohyun___.__._/"><i class="fa-brands fa-instagram fact-icon"></i>___seohyun___.__._</a>`,
