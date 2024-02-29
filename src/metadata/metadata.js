@@ -11,7 +11,7 @@ module.exports = {
       '<a href="mailto:kshjessica@ewhain.com"><i class="fa fa-envelope fact-icon"></i>kshjessica@ewhain.com</a>',
   },
   skills: [
-    ["Comedy", 100],
+    ["Communication", 100],
     ["Love", 100],
     ["Theater", 100],
     ["Tragedy", 100],
