@@ -5,8 +5,8 @@ module.exports = {
     Residence:
       '<a href="https://maps.app.goo.gl/XmVAwbhGKiUZwazaA"><i class="fa fa-home fact-icon"></i>Seoul, South Korea</a>',
     LinkedIn: `<a href="www.linkedin.com/in/seohyun-kim-kr">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>Seohyun Kim</a>`,
-    Instagram: `<a href="https://www.instagram.com/___seohyun___.__._/"><i class="fa-brands fa-linkedin fact-icon"></i>___seohyun___.__._</a>`,
+                  <i class="fa-brands fa-linkedin fact-icon"></i>Seohyun Kim</a>`,
+    Instagram: `<a href="https://www.instagram.com/___seohyun___.__._/"><i class="fa-brands fa-instagram fact-icon"></i>___seohyun___.__._</a>`,
     Email:
       '<a href="mailto:kshjessica@ewhain.com"><i class="fa fa-envelope fact-icon"></i>kshjessica@ewhain.com</a>',
   },
