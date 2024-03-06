@@ -3,26 +3,26 @@ module.exports = {
   title: "Coding for Change: Empowering Communities Through Technology",
   facts: {
     Residence:
-      '<a href="https://maps.app.goo.gl/XmVAwbhGKiUZwazaA"><i class="fa fa-home fact-icon"></i>Seoul, Republic of Korea</a>',
-    Blog: `<a href="https://velog.io/@kshjessica/series">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>Seohyun's Velog</a>`,
-    Instagram: `<a href="https://www.instagram.com/___seohyun___.__._/"><i class="fa-brands fa-instagram fact-icon"></i>___seohyun___.__._</a>`,
+      '<a href="https://maps.app.goo.gl/XmVAwbhGKiUZwazaA"><i class="fa fa-home fact-icon"></i>Seoul, South Korea</a>',
+    LinkedIn: `<a href="www.linkedin.com/in/seohyun-kim-kr">
+                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>Seohyun Kim</a>`,
+    Instagram: `<a href="https://www.instagram.com/___seohyun___.__._/"><i class="fa-brands fa-linkedin fact-icon"></i>___seohyun___.__._</a>`,
     Email:
       '<a href="mailto:kshjessica@ewhain.com"><i class="fa fa-envelope fact-icon"></i>kshjessica@ewhain.com</a>',
   },
   skills: [
+    ["Computer Science", 80],
+    ["Cybersecurity", 80],
+    ["DevOps", 60],
+    ["Web Development", 80],
+    ["Git/GitHub", 80],
+    ["Python", 80],
+    ["SQL", 80],
+    ["TypeScript", 80],
+    ["Public Speaking", 100],
+    ["Leadership", 80],
     ["Communication", 100],
-    ["Love", 100],
-    ["Theater", 100],
-    ["Tragedy", 100],
-    ["Poetry", 100],
-    ["Erotic", 60],
-    ["Sonnets", 100],
-    ["Plays", 100],
-    ["Writing", 100],
-    ["Directing", 80],
-    ["Literature", 100],
-    ["Influence", 100],
+    ["Teamwork", 100],
   ],
   positions: [
     {
